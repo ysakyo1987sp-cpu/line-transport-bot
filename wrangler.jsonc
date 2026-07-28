@@ -1,6 +1,6 @@
 {
   "name": "line-transport-bot-dev",
-  "main": "src/worker.js",
+  "main": "src/index.js",
   "workers_dev": true,
   "preview_urls": false,
   "compatibility_date": "2026-07-24",
